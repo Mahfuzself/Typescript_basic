@@ -1,0 +1,14 @@
+{
+  "name": "typescript_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
